@@ -1,0 +1,10 @@
+[
+    {"date": "2005-12-26", "number": "", "tail": "", "from": "ZAM", "to": "MNL", "status": "COMPLETED"},
+    {"date": "2005-12-19", "number": "", "tail": "", "from": "MNL", "to": "ZAM", "status": "COMPLETED"},
+    {"date": "2005-11-02", "number": "RP-C4008", "tail": "", "from": "TAG", "to": "MNL", "status": "COMPLETED"},
+    {"date": "2005-10-28", "number": "EI-BZN", "tail": "", "from": "MNL", "to": "TAG", "status": "COMPLETED"},
+    {"date": "2002-00-00", "number": "", "tail": "", "from": "ZAM", "to": "MNL", "status": "COMPLETED"},
+    {"date": "2002-00-00", "number": "", "tail": "", "from": "MNL", "to": "ZAM", "status": "COMPLETED"},
+    {"date": "1997-00-00", "number": "", "tail": "", "from": "ZAM", "to": "MNL", "status": "COMPLETED"},
+    {"date": "1997-00-00", "number": "", "tail": "", "from": "MNL", "to": "ZAM", "status": "COMPLETED"}
+]
